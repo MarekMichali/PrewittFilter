@@ -1,0 +1,3 @@
+LIBRARY PrewittFilterASM
+EXPORTS 
+PrewittThreadASM
